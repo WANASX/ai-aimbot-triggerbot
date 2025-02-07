@@ -5,6 +5,12 @@
 ---
 > **⚠️ Disclaimer:**  
 > **This software is for educational and experimental purposes only. Use it only where you have explicit permission. Misuse may violate terms of service or laws. The author is not responsible for any consequences.**
+>Latest Update V2:
+>I’ve released the source code as I’m not planning to update this project any further for now. My focus has shifted to another, much more advanced > ## project using the TensorRT engine:
+
+- **Official Website:** [AI Aimbot & Trigger Bot Cheat for Every Shooter Game](https://www.gamerfun.club/ai-aimbot-trigger-bot-cheat)
+- **UnknownCheats Forum:** [AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats](https://www.unknowncheats.me/forum/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)
+- **GitHub Repository:** [TensorRT-AI-Aimbot-Triggerbot](https://github.com/WANASX/tensorrt-ai-aimbot-triggerbot)
 
 ---
 ## Table of Contents
@@ -19,14 +25,6 @@
 - [License](#license)
 
 ---
-
->Latest Update V2:
->I’ve released the source code as I’m not planning to update this project any further for now. My focus has shifted to another, much more advanced > ## project using the TensorRT engine:
-
-- **Official Website:** [AI Aimbot & Trigger Bot Cheat for Every Shooter Game](https://www.gamerfun.club/ai-aimbot-trigger-bot-cheat)
-- **UnknownCheats Forum:** [AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats](https://www.unknowncheats.me/forum/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)
-- **GitHub Repository:** [TensorRT-AI-Aimbot-Triggerbot](https://github.com/WANASX/tensorrt-ai-aimbot-triggerbot)
-
 
 ## Features
 
