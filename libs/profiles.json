@@ -1,0 +1,446 @@
+[
+    {
+        "profile": "STRIKER",
+        "x": -1,
+        "y": 14,
+        "timing": 9
+    },
+    {
+        "profile": "SLEDGE",
+        "x": 1,
+        "y": 10,
+        "timing": 12
+    },
+    {
+        "profile": "THATCHER",
+        "x": 0,
+        "y": 12,
+        "timing": 7
+    },
+    {
+        "profile": "ASH",
+        "x": -1,
+        "y": 13,
+        "timing": 20
+    },
+    {
+        "profile": "THERMITE",
+        "x": 1,
+        "y": 9,
+        "timing": 7
+    },
+    {
+        "profile": "TWITCH",
+        "x": 0,
+        "y": 19.0,
+        "timing": 5
+    },
+    {
+        "profile": "GLAZ",
+        "x": 0,
+        "y": 15,
+        "timing": 7
+    },
+    {
+        "profile": "FUZE",
+        "x": -1,
+        "y": 17.0,
+        "timing": 12
+    },
+    {
+        "profile": "IQ",
+        "x": -1,
+        "y": 12,
+        "timing": 7
+    },
+    {
+        "profile": "BUCK",
+        "x": 0,
+        "y": 12,
+        "timing": 7
+    },
+    {
+        "profile": "BLACKBEARD",
+        "x": 1,
+        "y": 7,
+        "timing": 7
+    },
+    {
+        "profile": "CAPITAO",
+        "x": 0,
+        "y": 9.0,
+        "timing": 9
+    },
+    {
+        "profile": "HIBANA",
+        "x": -1,
+        "y": 8,
+        "timing": 11
+    },
+    {
+        "profile": "JACKAL",
+        "x": -1,
+        "y": 17,
+        "timing": 7
+    },
+    {
+        "profile": "YING",
+        "x": 0,
+        "y": 12,
+        "timing": 7
+    },
+    {
+        "profile": "ZOFIA",
+        "x": 0,
+        "y": 22.0,
+        "timing": 5
+    },
+    {
+        "profile": "LION",
+        "x": 0,
+        "y": 7.0,
+        "timing": 7
+    },
+    {
+        "profile": "FINKA",
+        "x": -1,
+        "y": 16,
+        "timing": 15
+    },
+    {
+        "profile": "MAVERICK",
+        "x": -1,
+        "y": 14,
+        "timing": 9
+    },
+    {
+        "profile": "NOMAD",
+        "x": -1,
+        "y": 12,
+        "timing": 7
+    },
+    {
+        "profile": "GRIDLOCK",
+        "x": -1,
+        "y": 13,
+        "timing": 11
+    },
+    {
+        "profile": "NOKK",
+        "x": 0,
+        "y": 13,
+        "timing": 7
+    },
+    {
+        "profile": "AMARU",
+        "x": -1,
+        "y": 14,
+        "timing": 7
+    },
+    {
+        "profile": "IANA",
+        "x": -1,
+        "y": 6.0,
+        "timing": 7
+    },
+    {
+        "profile": "ACE",
+        "x": 0,
+        "y": 3.0,
+        "timing": 12
+    },
+    {
+        "profile": "ZERO",
+        "x": 0,
+        "y": 17,
+        "timing": 7
+    },
+    {
+        "profile": "FLORES",
+        "x": 0,
+        "y": 12,
+        "timing": 7
+    },
+    {
+        "profile": "OSA",
+        "x": 1,
+        "y": 10,
+        "timing": 7
+    },
+    {
+        "profile": "GRIM",
+        "x": -1,
+        "y": 12,
+        "timing": 7
+    },
+    {
+        "profile": "BRAVA",
+        "x": 0,
+        "y": 11,
+        "timing": 9
+    },
+    {
+        "profile": "RAM",
+        "x": -1,
+        "y": 18,
+        "timing": 7
+    },
+    {
+        "profile": "SENTRY",
+        "x": 0,
+        "y": 9,
+        "timing": 7
+    },
+    {
+        "profile": "SMOKE",
+        "x": 0,
+        "y": 15,
+        "timing": 9
+    },
+    {
+        "profile": "MUTE",
+        "x": 0,
+        "y": 15,
+        "timing": 9
+    },
+    {
+        "profile": "CASTLE",
+        "x": 0,
+        "y": 8,
+        "timing": 7
+    },
+    {
+        "profile": "PULSE",
+        "x": 0,
+        "y": 6,
+        "timing": 7
+    },
+    {
+        "profile": "DOC",
+        "x": -1,
+        "y": 14,
+        "timing": 7
+    },
+    {
+        "profile": "ROOK",
+        "x": -1,
+        "y": 14,
+        "timing": 7
+    },
+    {
+        "profile": "KAPKAN",
+        "x": -1,
+        "y": 7.0,
+        "timing": 7
+    },
+    {
+        "profile": "TACHANKA",
+        "x": 0,
+        "y": 3.0,
+        "timing": 7
+    },
+    {
+        "profile": "JAGER",
+        "x": -1,
+        "y": 10.0,
+        "timing": 13
+    },
+    {
+        "profile": "BANDIT",
+        "x": 0,
+        "y": 10,
+        "timing": 7
+    },
+    {
+        "profile": "FROST",
+        "x": 0,
+        "y": 8,
+        "timing": 14
+    },
+    {
+        "profile": "VALKYRIE",
+        "x": 0,
+        "y": 6.0,
+        "timing": 7
+    },
+    {
+        "profile": "CAVEIRA",
+        "x": 0,
+        "y": 5,
+        "timing": 7
+    },
+    {
+        "profile": "ECHO",
+        "x": -1,
+        "y": 12,
+        "timing": 5
+    },
+    {
+        "profile": "MIRA",
+        "x": 0,
+        "y": 14,
+        "timing": 7
+    },
+    {
+        "profile": "LESION",
+        "x": 0,
+        "y": 10,
+        "timing": 7
+    },
+    {
+        "profile": "ELA",
+        "x": 1,
+        "y": 11.0,
+        "timing": 7
+    },
+    {
+        "profile": "VIGIL",
+        "x": 1,
+        "y": 15,
+        "timing": 9
+    },
+    {
+        "profile": "DOKKAEBI",
+        "x": 1,
+        "y": 15,
+        "timing": 9
+    },
+    {
+        "profile": "MAESTRO",
+        "x": 0,
+        "y": 8.0,
+        "timing": 7
+    },
+    {
+        "profile": "ALIBI",
+        "x": 1,
+        "y": 5,
+        "timing": 7
+    },
+    {
+        "profile": "CLASH",
+        "x": 0,
+        "y": 8,
+        "timing": 7
+    },
+    {
+        "profile": "KALI",
+        "x": 0,
+        "y": 8,
+        "timing": 7
+    },
+    {
+        "profile": "MOZZIE",
+        "x": 0,
+        "y": 10,
+        "timing": 7
+    },
+    {
+        "profile": "ARUNI",
+        "x": 0,
+        "y": 10,
+        "timing": 7
+    },
+    {
+        "profile": "GOYO",
+        "x": 0,
+        "y": 19,
+        "timing": 7
+    },
+    {
+        "profile": "WAMAI",
+        "x": 0,
+        "y": 9,
+        "timing": 7
+    },
+    {
+        "profile": "ORYX",
+        "x": 0,
+        "y": 10,
+        "timing": 7
+    },
+    {
+        "profile": "MELUSI",
+        "x": -1,
+        "y": 10,
+        "timing": 7
+    },
+    {
+        "profile": "THUNDERBIRD",
+        "x": 0,
+        "y": 15,
+        "timing": 7
+    },
+    {
+        "profile": "THORN",
+        "x": 0,
+        "y": 10,
+        "timing": 7
+    },
+    {
+        "profile": "AZAMI",
+        "x": -1,
+        "y": 10,
+        "timing": 7
+    },
+    {
+        "profile": "SOLIS",
+        "x": 0,
+        "y": 15,
+        "timing": 9
+    },
+    {
+        "profile": "FENRIR",
+        "x": 0,
+        "y": 10,
+        "timing": 7
+    },
+    {
+        "profile": "WARDEN",
+        "x": 0,
+        "y": 9,
+        "timing": 7
+    },
+    {
+        "profile": "TUBARAO",
+        "x": 0,
+        "y": 9,
+        "timing": 7
+    },
+    {
+        "profile": "SKOPOS",
+        "x": 0,
+        "y": 8,
+        "timing": 7
+    },
+    {
+        "profile": "MONTAGNE",
+        "x": 1,
+        "y": 12,
+        "timing": 8
+    },
+    {
+        "profile": "BLITZ",
+        "x": 1,
+        "y": 14,
+        "timing": 10
+    },
+    {
+        "profile": "SENS",
+        "x": -1,
+        "y": 11,
+        "timing": 7
+    },
+    {
+        "profile": "DEIMOS",
+        "x": 0,
+        "y": 13,
+        "timing": 6
+    },
+    {
+        "profile": "KAID",
+        "x": -1,
+        "y": 5.0,
+        "timing": 9
+    }
+]
