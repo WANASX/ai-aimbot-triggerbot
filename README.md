@@ -5,7 +5,8 @@
 ---
 > **⚠️ Disclaimer:**  
 > **This software is for educational and experimental purposes only. Use it only where you have explicit permission. Misuse may violate terms of service or laws. The author is not responsible for any consequences.**
->Latest Update V2:
+---
+>**❄ Latest Update V2:**
 >I’ve released the source code as I’m not planning to update this project any further for now. My focus has shifted to another, much more advanced > ## project using the TensorRT engine:
 
 - **Official Website:** [AI Aimbot & Trigger Bot Cheat for Every Shooter Game](https://www.gamerfun.club/ai-aimbot-trigger-bot-cheat)
