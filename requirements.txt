@@ -1,0 +1,24 @@
+# Core GUI and system libraries
+PyQt5
+
+# Scientific and image processing libraries
+numpy
+opencv-python
+Pillow
+
+# Machine Learning and AI detection
+torch
+ultralytics
+
+# Screen capture and input simulation
+mss
+keyboard
+screeninfo
+
+# OCR support
+pytesseract
+
+# Windows API integration
+pywin32
+
+bettercam

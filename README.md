@@ -3,7 +3,10 @@
 **GamerFun AI Menu** is an advanced tool that combines AI-powered aimbot, triggerbot, and recoil control—optimized for Rainbow Six Siege and many other top shooter games. By integrating state-of-the-art computer vision with Logitech driver support, GamerFun AI Menu provides precision targeting, smooth mouse movements, and customizable recoil profiles while mimicking human behavior to help avoid detection.
 
 ---
+> **⚠️ Disclaimer:**  
+> **This software is for educational and experimental purposes only. Use it only where you have explicit permission. Misuse may violate terms of service or laws. The author is not responsible for any consequences.**
 
+---
 ## Table of Contents
 
 - [Features](#features)
@@ -16,6 +19,14 @@
 - [License](#license)
 
 ---
+
+>Latest Update V2:
+>I’ve released the source code as I’m not planning to update this project any further for now. My focus has shifted to another, much more advanced > ## project using the TensorRT engine:
+
+- **Official Website:** [AI Aimbot & Trigger Bot Cheat for Every Shooter Game](https://www.gamerfun.club/ai-aimbot-trigger-bot-cheat)
+- **UnknownCheats Forum:** [AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats](https://www.unknowncheats.me/forum/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)
+- **GitHub Repository:** [TensorRT-AI-Aimbot-Triggerbot](https://github.com/WANASX/tensorrt-ai-aimbot-triggerbot)
+
 
 ## Features
 
@@ -60,6 +71,8 @@
 4. **Recoil Control:**  
    For weapons with significant recoil, the tool uses pre-defined recoil profiles—either auto-detected or manually selected—to counteract recoil during sustained fire.
 
+5. **Mouse Driver Integration:** Uses the Logitech-CVE mouse driver (`ghub_mouse.dll`) from [ekknod on GitHub](https://github.com/ekknod/logitech-cve) for precise control.
+
 ---
 
 ## Installation
@@ -67,8 +80,8 @@
 ### Prerequisites
 
 - **Operating System:** Windows (the tool uses Windows-specific libraries such as `win32api`)
-- **Python 3.8+**
-- **CUDA 12.4** (Highly recommended for GPU acceleration; otherwise, detection runs on CPU and is slower)
+- **Python 3.10+**
+- **CUDA 12.4** [Download Here](https://developer.nvidia.com/cuda-12-4-0-download-archive) (Highly recommended for GPU acceleration; otherwise, detection runs on CPU and is slower)
 - **Tesseract OCR**
   - Download and install from the [official GitHub repository](https://github.com/tesseract-ocr/tesseract)
   - Ensure `Tesseract.exe` is added to your system PATH
@@ -77,28 +90,28 @@
 
 1. **Clone the Repository:**
 
-       git clone https://github.com/yourusername/GamerFun-AI-Menu.git
-       cd GamerFun-AI-Menu
+       git clone https://github.com/WANASX/ai-aimbot-triggerbot
+       cd ai-aimbot-triggerbot
 
 2. **Install Python Dependencies:**
 
    It is recommended to use a virtual environment.
 
        python -m venv venv
-       source venv/Scripts/activate  # On Windows use: venv\Scripts\activate
+       venv\Scripts\activate
        pip install --upgrade pip
        pip install -r requirements.txt
 
 3. **Setup Logitech G HUB:**
 
-   - Download and install **Logitech G HUB** (version 2021-10-8013 recommended) even if you do not own a Logitech mouse.
+   - Download and install **Logitech G HUB** [version 2021-10-8013 From UC](https://www.unknowncheats.me/forum/downloads.php?do=file&id=39879) even if you do not own a Logitech mouse.
    - **Block Logitech G HUB from Internet Access:**  
      Use your firewall settings to block internet access to Logitech G HUB to prevent automatic updates.
 
 4. **Additional Setup:**
 
    - Ensure that the required model file (`model1.pt`) and configuration files (`config.json`, `profiles.json`, and the Logitech DLL `ghub_mouse.dll`) are placed in the `libs` directory.
-   - Run the provided installer batch file if available (e.g., `Installer.bat`) to complete any extra setup steps.
+   - Run the provided installer batch file `Installer.bat` to complete any extra setup steps.
 
 ---
 
@@ -106,9 +119,7 @@
 
 1. **Launch the Application:**
 
-   Run the main executable (e.g., `GamerFun.exe`) or start the Python script:
-
-       python main.py
+       python Loader.py
 
 2. **In-Game Activation:**
 
@@ -171,8 +182,18 @@ This project is provided "as is" without any warranty. Please review the [LICENS
 ## Step-By-Step Video Guide
 
 Watch our video guide for a detailed walkthrough on installation and usage:  
-[Step-By-Step Video Guide](https://www.youtube.com/watch?v=RbwX7uay4_Q)  <!-- Replace with actual video link when available -->
+[Step-By-Step Video Guide](https://www.youtube.com/watch?v=RbwX7uay4_Q)
 
 ---
 
+
+## Support & Donations
+
+If you would like to support this project, you can donate **USDT Tron (TRC20)** to:
+```
+TDiVQzShforoR5XgWXfKuPhPhdgPypXAgB
+```
+
+For questions or support, contact **support@gamerfun.club**.
+---
 Enjoy gaming with precision and enhanced control using GamerFun AI Menu!
