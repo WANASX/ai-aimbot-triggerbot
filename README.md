@@ -56,7 +56,8 @@
   - Supports GPU acceleration with CUDA (recommended) for drastically reduced detection times.
 
 ---
-
+![TensorRT AI Aimbot Triggerbot Menu UI](GamerFun-AI-Menu-1024x530.webp)
+---
 ## How It Works
 
 1. **Detection:**  
@@ -182,7 +183,7 @@ This project is provided "as is" without any warranty. Please review the [LICENS
 ## Step-By-Step Video Guide
 
 Watch our video guide for a detailed walkthrough on installation and usage:  
-[Step-By-Step Video Guide](https://www.youtube.com/watch?v=RbwX7uay4_Q)
+[![Step-By-Step Video Guide](https://img.youtube.com/vi/RbwX7uay4_Q/0.jpg)](https://www.youtube.com/watch?v=RbwX7uay4_Q)
 
 ---
 
