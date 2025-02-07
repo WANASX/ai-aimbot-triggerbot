@@ -25,7 +25,7 @@
 - [Configuration](#configuration)
 - [Performance & Requirements](#performance--requirements)
 - [Troubleshooting](#troubleshooting)
-- [License](#license)
+- [Support](#Support--Donations)
 
 ---
 
@@ -172,12 +172,6 @@ If the configuration file is not found, a default configuration will be automati
   If recoil control isn’t working, verify that Logitech G HUB is installed, the DLL (`ghub_mouse.dll`) is present in the `libs` folder, and that you have blocked G HUB from updating.
 
 For further assistance, please check the issue tracker or open a new issue on GitHub.
-
----
-
-## License
-
-This project is provided "as is" without any warranty. Please review the [LICENSE](LICENSE) file for more details.
 
 ---
 
